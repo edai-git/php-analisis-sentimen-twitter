@@ -1,2 +1,6 @@
 # php-analisis-sentimen-tweet
-Analisis sentimen tweet menggunakan bahasa pemrograman php dan algoritma naive bayes (NBS)
+Analisis sentimen tweet menggunakan algoritma naive bayes (NBS)
+Codeigniter 3
+PHP
+Jquery
+Analysist Sentiment
