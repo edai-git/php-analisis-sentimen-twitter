@@ -13,10 +13,10 @@ class Tweet
         require_once FCPATH . 'vendor/autoload.php';
 
         // ganti dengan API twitter anda
-        $key = 'AbyvtiguFlUdXaV89ezG7cVV5';
-        $secret_key = '5oZ7HHT1rdtDO1vYNUkb2ujgi5Qp8tmHEOdceDBxxoqlu9paJp';
-        $token = '1382920208822673409-yDKO0c09zQ4Hs0qHAvmX0CCvhSTiNT';
-        $secret_token = 'JbCknojYQjTbTnXujPm2kNQ2bIYRfiHWQT4TErmVUb21a';
+        $key = '';
+        $secret_key = '';
+        $token = '';
+        $secret_token = '';
 
         // // membuka koneksi
         $conn = new TwitterOAuth($key, $secret_key, $token, $secret_token);
